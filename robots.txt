@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucozioji.github.io/Qas/sitemap_index.txt
+Sitemap: https://ucozioji.github.io/SpF/sitemap_index.txt
+Sitemap: https://ucozioji.github.io/XIc/sitemap_index.txt
+Sitemap: https://ucozioji.github.io/qtk/sitemap_index.txt
